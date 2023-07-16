@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\LogicalProblem\Exception__Handling\MoodAnalyserAppWithCore\MoodAnalyserAppWithCore\bin\Debug\net6.0\MoodAnalyserAppWithCore.exe
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\LogicalProblem\Exception__Handling\MoodAnalyserAppWithCore\MoodAnalyserAppWithCore\bin\Debug\net6.0\MoodAnalyserAppWithCore.deps.json
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\LogicalProblem\Exception__Handling\MoodAnalyserAppWithCore\MoodAnalyserAppWithCore\bin\Debug\net6.0\MoodAnalyserAppWithCore.runtimeconfig.json
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\LogicalProblem\Exception__Handling\MoodAnalyserAppWithCore\MoodAnalyserAppWithCore\bin\Debug\net6.0\MoodAnalyserAppWithCore.dll
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\LogicalProblem\Exception__Handling\MoodAnalyserAppWithCore\MoodAnalyserAppWithCore\bin\Debug\net6.0\MoodAnalyserAppWithCore.pdb
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\LogicalProblem\Exception__Handling\MoodAnalyserAppWithCore\MoodAnalyserAppWithCore\obj\Debug\net6.0\MoodAnalyserAppWithCore.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\LogicalProblem\Exception__Handling\MoodAnalyserAppWithCore\MoodAnalyserAppWithCore\obj\Debug\net6.0\MoodAnalyserAppWithCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\LogicalProblem\Exception__Handling\MoodAnalyserAppWithCore\MoodAnalyserAppWithCore\obj\Debug\net6.0\MoodAnalyserAppWithCore.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\LogicalProblem\Exception__Handling\MoodAnalyserAppWithCore\MoodAnalyserAppWithCore\obj\Debug\net6.0\MoodAnalyserAppWithCore.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\LogicalProblem\Exception__Handling\MoodAnalyserAppWithCore\MoodAnalyserAppWithCore\obj\Debug\net6.0\MoodAnalyserAppWithCore.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\LogicalProblem\Exception__Handling\MoodAnalyserAppWithCore\MoodAnalyserAppWithCore\obj\Debug\net6.0\MoodAnalyserAppWithCore.dll
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\LogicalProblem\Exception__Handling\MoodAnalyserAppWithCore\MoodAnalyserAppWithCore\obj\Debug\net6.0\refint\MoodAnalyserAppWithCore.dll
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\LogicalProblem\Exception__Handling\MoodAnalyserAppWithCore\MoodAnalyserAppWithCore\obj\Debug\net6.0\MoodAnalyserAppWithCore.pdb
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\LogicalProblem\Exception__Handling\MoodAnalyserAppWithCore\MoodAnalyserAppWithCore\obj\Debug\net6.0\MoodAnalyserAppWithCore.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\LogicalProblem\Exception__Handling\MoodAnalyserAppWithCore\MoodAnalyserAppWithCore\obj\Debug\net6.0\ref\MoodAnalyserAppWithCore.dll
